@@ -1,6 +1,6 @@
 Written in MicroPython 
 Object Oriented programming with threading 
-Consists of two scripts: tf_luna.py and main.py
+which consists of two scripts: tf_luna.py and main.py
 
   - tf_luna.py
   - A class for LIDAR module 
